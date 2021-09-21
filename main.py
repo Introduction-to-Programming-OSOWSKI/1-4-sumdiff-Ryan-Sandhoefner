@@ -1,3 +1,3 @@
 #define function
-def sumDif(x,y):
+def sumDiff(x,y):
     return(x + y - x - y)
