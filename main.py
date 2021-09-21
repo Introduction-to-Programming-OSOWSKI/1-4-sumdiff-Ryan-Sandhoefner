@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+#define function
+def sumDif(x,y):
+    return(x + y - x - y)
